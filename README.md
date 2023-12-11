@@ -2,6 +2,7 @@
 Developed a comprehensive Rubik's Cube program that modularly connects cube actions and faces. The code incorporates various algorithms for cube manipulations and employs a systematic structure to enhance maintainability. 
 
 First Iteration Run time Input 👇 : **R** (Right) 
+
 ![Screenshot (171)](https://github.com/Pavansubhash/Rubik-s-cube/assets/109154212/25bfdb65-679f-4fc3-882b-fe1d19b0600f)
 
 Second  Iteration Run time Input: 👇  **L D U L**(left, down, up , left)
